@@ -1,0 +1,7 @@
+frutas = ['morango', 'abacaxi', 'goiaba', 'jambo', 'banana']
+
+#Primeiro elemento
+print(frutas[0]) 
+
+#Terceiro elemento
+print(frutas[2]) 
